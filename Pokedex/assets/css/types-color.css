@@ -1,0 +1,89 @@
+/* Tipo Normal */
+  .normal {
+    background-color: #a8a878; /* Cor de fundo tipo Normal */
+  }
+  
+  /* Tipo Fire */
+  .fire {
+    background-color: #f08030; /* Cor de fundo tipo Fire */
+  }
+  
+  /* Tipo Water */
+  .water {
+    background-color: #6890f0; /* Cor de fundo tipo Water */
+  }
+  
+  /* Tipo Electric */
+  .electric {
+    background-color: #f8d030; /* Cor de fundo tipo Electric */
+  }
+  
+  /* Tipo Grass */
+  .grass {
+    background-color: #78c850; /* Cor de fundo tipo Grass */
+  }
+  
+  /* Tipo Ice */
+  .ice {
+    background-color: #98d8d8; /* Cor de fundo tipo Ice */
+  }
+  
+  /* Tipo Fighting */
+  .fighting {
+    background-color: #c03028; /* Cor de fundo tipo Fighting */
+  }
+  
+  /* Tipo Poison */
+  .poison {
+    background-color: #a040a0; /* Cor de fundo tipo Poison */
+  }
+  
+  /* Tipo Ground */
+  .ground {
+    background-color: #e0c068; /* Cor de fundo tipo Ground */
+  }
+  
+  /* Tipo Flying */
+  .flying {
+    background-color: #a890f0; /* Cor de fundo tipo Flying */
+  }
+  
+  /* Tipo Psychic */
+  .psychic {
+    background-color: #f85888; /* Cor de fundo tipo Psychic */
+  }
+  
+  /* Tipo Bug */
+  .bug {
+    background-color: #a8b820; /* Cor de fundo tipo Bug */
+  }
+  
+  /* Tipo Rock */
+  .rock {
+    background-color: #b8a038; /* Cor de fundo tipo Rock */
+  }
+  
+  /* Tipo Ghost */
+  .ghost {
+    background-color: #705898; /* Cor de fundo tipo Ghost */
+  }
+  
+  /* Tipo Dragon */
+  .dragon {
+    background-color: #7038f8; /* Cor de fundo tipo Dragon */
+  }
+  
+  /* Tipo Dark */
+  .dark {
+    background-color: #705848; /* Cor de fundo tipo Dark */
+  }
+  
+  /* Tipo Steel */
+  .steel {
+    background-color: #b8b8d0; /* Cor de fundo tipo Steel */
+  }
+  
+  /* Tipo Fairy */
+  .fairy {
+    background-color: #ee99ac; /* Cor de fundo tipo Fairy */
+  }
